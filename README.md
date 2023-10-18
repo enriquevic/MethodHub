@@ -47,3 +47,7 @@ O aplicativo monitora o progresso de cada cliente, oferece dados para algoritmos
 Investidores buscam projetos viáveis e impactantes. Destacando a viabilidade técnica através de protótipos e demonstrações, e criando casos de uso convincentes, podemos atrair recursos para levar este projeto ambicioso adiante. O aplicativo promete melhorar significativamente a eficiência dos representantes comerciais, resultando em ganhos substanciais.
 
 Espero que essas informações proporcionem uma compreensão clara do potencial e das vantagens do meu projeto. Estou ansioso para colaborar com investidores interessados em impulsionar o sucesso desta iniciativa inovadora.
+
+### *Códigos
+
+Algumas classes principais não estão compartilhadas publicamente para manter o principal projero em sigilo.
